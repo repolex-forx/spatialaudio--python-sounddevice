@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/python-sounddevice/commit/626fcb071638ebbb631ccd40f3307f8dce68af63",
       "git:hexsha": "626fcb071638ebbb631ccd40f3307f8dce68af63",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:56:55.593395+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spatialaudio/python-sounddevice/commit/eb399e6ce6170325dc0d97fddadf53aba7053f7a",
