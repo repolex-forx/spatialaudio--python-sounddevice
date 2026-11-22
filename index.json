@@ -3,6 +3,11 @@
   "repo": "python-sounddevice",
   "versions": [
     {
+      "commit": "528c482c65342bbc3a86ee249101003e7fac0911",
+      "tag": "0.5.5",
+      "parsed_at": "2026-11-22T03:52:42.178897+00:00"
+    },
+    {
       "commit": "626fcb071638ebbb631ccd40f3307f8dce68af63",
       "tag": "",
       "parsed_at": "2026-10-17T23:56:55.593942+00:00"
