@@ -142,6 +142,43 @@
       ],
       "ast": [
         "aggregate/ast/528c482c65342bbc3a86ee249101003e7fac0911/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/528c482c65342bbc3a86ee249101003e7fac0911.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "cffi",
+          "ecosystem": "PYPI",
+          "version": "2.1.1",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi",
+          "githubCommit": "fd33e7700f0ebafe6f30bd5053f13327221b77a2",
+          "githubTag": "v2.1.1",
+          "githubUrl": "https://github.com/python-cffi/cffi",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "2.5.5",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "afcbc6d21a88a7b59c5bfe115198e24ed51b3dae",
+          "githubTag": "v2.5.5",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
